@@ -1,1 +1,2 @@
-# MUL_DIV.asm
+# MUL DIV.asm
+multiplicaçao e divisão em assembly
